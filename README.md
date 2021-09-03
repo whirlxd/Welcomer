@@ -11,7 +11,15 @@
 
 > An open source highly customizable and easy to use welcomer bot. supports custom messages per server , custom per server bg and channels
 
-### 🏠 [Homepage](https://github.com/Whirl21/Welcomer)
+### Table of content
+- [Homepage](https://github.com/Whirl21/Welcomer)
+- [Installation](##install)
+- [Usage](#usage)
+- [Run Test](##run-tests)
+- [Author](#author)
+- [Help](#-help)
+- [Show your support](#show-your-support)
+
 
 ## Install
 
