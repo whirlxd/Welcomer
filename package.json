@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.5.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "canvacord": "^5.2.3",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "is-url": "^1.2.4",
+    "is-url-superb": "^6.0.0",
+    "nodemon": "^2.0.12",
+    "quick.db": "^7.1.3"
+  },
+  "name": "welcomer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "register": "node register-commands.js",
+    "dev": "nodemon  index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
