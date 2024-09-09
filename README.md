@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Welcomer 👋(😂)</h1>
+<h1 align="center">Welcome to Welcomer 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -12,7 +12,7 @@
 > An open source highly customizable and easy to use welcomer bot. supports custom messages per server , custom per server bg and channels
 
 ### Table of content
-- [Homepage](https://github.com/Whirl21/Welcomer)
+- [Homepage](https://github.com/Whirlxd/Welcomer)
 - [Installation](##install)
 - [Usage](#usage)
 - [Run Test](##run-tests)
@@ -43,19 +43,19 @@ npm run dev
 
 👤 **Whirl**
 
-- Website: whirl.codes
-- Twitter: [@Whirl_21](https://twitter.com/Whirl_21)
-- Github: [@Whirl21](https://github.com/Whirl21)
+- Website: whirlxd.xyz
+- Twitter: [@Whirlxd](https://twitter.com/Whirlxd)
+
 
 ## ⛑ Help
 
-For support, you can join our discord server by clicking [here](https://discord.gg/ph2pCZrpm9) or email me at hello@whirl.codes
+As of 2024 , i will be no longer offering any support 
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!<br>
-Consider 🥢 this on [GitHub](https://github.com/Whirl21/Welcomer/fork)<br>
-Consider Checking Out my [🌐](https://whirl.codes) if you like this project!<br>
+Consider 🥢 this on [GitHub](https://github.com/Whirlxd/Welcomer/fork)<br>
+Consider Checking Out my [🌐](https://whirlxd.xyz) if you like this project!<br>
 Consider joining my [💬](https://discord.gg/ygGx8KJ65Y) if this project helped you
 
 ---
